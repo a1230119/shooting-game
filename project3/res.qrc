@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>airplane.png</file>
+        <file>bullet.png</file>
+        <file>bomb.png</file>
+        <file>fireworks.png</file>
+        <file>fireworks.gif</file>
+        <file>01.png</file>
+        <file>02.png</file>
+        <file>03.png</file>
+        <file>04.png</file>
+        <file>05.png</file>
+        <file>enemy.png</file>
+        <file>ghost.png</file>
+        <file>bomb1.png</file>
+    </qresource>
+</RCC>
